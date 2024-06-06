@@ -1,0 +1,22 @@
+.table-container {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  
+  .table-container th,
+  .table-container td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  .button {
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    cursor: pointer;
+  }
+  
